@@ -307,587 +307,587 @@ is distributed without any warranty.
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 #Introduction
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Conformance
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Terms and Definitions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Basic Concepts
 ##Program Structure
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Program Start-Up
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Program Termination
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The Memory Model
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Reclamation and Automatic Memory Management
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Assignment
 ####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Value Assignment of Scalar Types to a Local Variable
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Value Assignment of Object and Resource Types to a Local Variable
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####ByRef Assignment for Scalar Types with Local Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Byref Assignment of Non-Scalar Types with Local Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Value Assignment of Array Types to Local Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Deferred Array Copying
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General Value Assignment
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General ByRef Assignment
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Argument Passing
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Value Returning
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Cloning objects
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Scope
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Storage Duration
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Types
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Scalar Types
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The Boolean Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The Integer Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The Floating-Point Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The String Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The Null Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Composite Types
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Array Types
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Object Types
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Resource Types
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Context-Dependent Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Core Predefined Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##User-Defined Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Kinds of Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Local Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Array Elements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Function Statics
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Global Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Instance Properties
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Static Properties
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Class and Interface Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Predefined Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Conversions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Converting to Boolean Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Converting to Integer Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Converting to Floating-Point Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Converting to String Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Converting to Array Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Converting to Object Type
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Lexical Structure
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Scripts
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Grammars
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Lexical analysis
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Comments
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###White Space
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Tokens
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Names
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Keywords
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #####Boolean Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #####Integer Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #####Floating-Point Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #####String Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ######Single-Quoted String Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ######Double-Quoted String Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ######Heredoc String Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ######Nowdoc String Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #####The Null Literal
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Operators and Punctuators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Expressions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Primary Expressions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Intrinsics
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####array
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####echo
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####empty
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####eval
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####exit/die
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####isset
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####list
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####print
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####unset
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Anonymous Function-Creation
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Postfix Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `clone` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `new` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Array Creation Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Subscript Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Function Call Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 strlen($lastName) // returns the # of bytes in the string
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Member-Selection Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Postfix Increment and Decrement Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Scope-Resolution Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Exponentiation Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Unary Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Prefix Increment and Decrement Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Unary Arithmetic Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Error Control Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Shell Command Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Cast Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Variable-Name Creation Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##`instanceof` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Multiplicative Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Additive Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Bitwise Shift Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Relational Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Equality Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ## Bitwise AND Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Bitwise Exclusive OR Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Bitwise Inclusive OR Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Logical AND Operator (form 1)
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Logical Inclusive OR Operator (form 1)
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Conditional Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Assignment Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Simple Assignment
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###byRef Assignment
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Compound Assignment
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Logical AND Operator (form 2)
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Logical Exclusive OR Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Logical Inclusive OR Operator (form 2)
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ## `yield` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Script Inclusion Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `include` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `include_once` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `require` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `require_once` Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Constant Expressions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Compound Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Labeled Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Expression Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Selection Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `if` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `switch` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Iteration Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `while` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `do` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `for` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `foreach` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Jump Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `goto` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `continue` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `break` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `return` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###The `throw` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `try` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##The `declare` Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Arrays
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Array Creation and Initialization
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Element Access and Insertion
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Functions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Function Calls
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Function Definitions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Variable Functions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Anonymous Functions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Classes
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Class Declarations
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Class Members
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Dynamic Members
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Properties
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Methods
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Constructors
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Destructors
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Methods with Special Semantics
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__call`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__callStatic`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__clone`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__get`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__invoke`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__isset`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__set`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__set_state`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__sleep`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__toString`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__unset`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Method `__wakeup`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Serialization
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Predefined Classes
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ### Class `Closure`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Class `Generator`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Class `__PHP_Incomplete_Class`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Class `stdClass`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Interfaces
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Interface Declarations
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Interface Members
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Constants
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Methods
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Predefined Interfaces
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Interface `ArrayAccess`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Interface `Iterator`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Interface `IteratorAggregate`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Interface `Traversable`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Interface  `Serializable`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Traits
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Trait Declarations
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Trait Members
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Exception Handling
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Class `Exception`
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Tracing Exceptions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##User-Defined Exception Classes
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Namespaces
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Name Lookup
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Defining Namespaces
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Namespace Use Declarations**
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Grammar
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Lexical Grammar
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Comments
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###White Space
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Tokens
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Names
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Keywords
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Boolean Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Integer Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Floating-Point Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####String Literals
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####The Null Literal
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Operators and Punctuators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ##Syntactic Grammar
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Program Structure
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Variables
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Expressions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Primary Expressions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Postfix Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Unary Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####instanceof Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Multiplicative Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Additive Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Bitwise Shift Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Relational Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Equality Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Bitwise Logical Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Logical Operators (form 1)
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Conditional Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Assignment Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Logical Operators (form 2)
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####yield Operator
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Script Inclusion Operators
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Constant Expressions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####General
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Compound Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Labeled Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Expression Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Iteration Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####Jump Statements
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####The try Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ####The declare Statement
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Functions
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Classes
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Interfaces
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Traits
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 ###Namespaces
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
 #Bibliography
-¯\\_(ツ)_/¯
+¯\\\_(ツ)_/¯
